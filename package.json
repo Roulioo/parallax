@@ -1,0 +1,23 @@
+{
+  "name": "parallax",
+  "version": "1.0.0",
+  "description": "Web application manipulating the parallax design technique.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roulioo/parallax.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roulioo/parallax/issues"
+  },
+  "homepage": "https://github.com/Roulioo/parallax#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
